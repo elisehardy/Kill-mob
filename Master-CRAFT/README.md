@@ -70,5 +70,5 @@ Some notes :
 
 ## Authors
 
-* CetteElise Hardy
+* Elise Hardy
 
